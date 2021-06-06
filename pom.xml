@@ -83,7 +83,7 @@
 	
 	
 	<build>
-		<finalName>maven-web-application</finalName>
+		<finalName>CICD-projectweb-application</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
