@@ -12,8 +12,10 @@
 </head>
 </head>
 <body>
- <h1 align="center">Caltech Simplilearn May 2021</h1>
-<h1 align="center">Congrats - your app deployed on Tomcat!</h1>
-<h2 align="center">This is cool huh?!</h2>
+ <h1 align="center">project done with maven-app repo</h1>
+<h1 align="center">i was not able to do it with spring and java because i didnt see that in class</h1>
+<h2 align="center">it has to be really interesting to do, i tried many times but could not do it</h2>
+<h3>project done using : </h3>
+<h4>Git as a VCS, Jenkins to build pipeline, Maven to compile the program, Tomcat to host the website, AWS EC2 to run Tomcat and Junit to run tests</h4>
 </body>
 </html>
